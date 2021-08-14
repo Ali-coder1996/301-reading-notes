@@ -12,7 +12,7 @@
 | 8      | [Read: 08 - APIs](301class-08)                                                |
 | 9      | [Read: 09 - FUNCTIONAL PROGRAMMING](301class-09)                                               |
 | 10     | [Read: 10 - In memory storage](301class-10)                                                   |
-| 11     | [Read: 11 - Authentication](301class-1)                                                 |
+| 11     | [Read: 11 - Authentication](301class-11)                                                 |
 | 12     | [Read: 12 - Mongo and Mongoose](301class-12)                           |
 | 13     | [Read: 13 - CRUD](301class-13)                                                  |
 | 14    | [Read: 14 - Diversity & Inclusion in the Tech Industry](301class-14)                  |
