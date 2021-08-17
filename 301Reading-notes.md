@@ -16,4 +16,4 @@
 | 12     | [Read: 12 - Mongo and Mongoose](301class-12)                           |
 | 13     | [Read: 13 - CRUD](301class-13)                                                  |
 | 14    | [Read: 14 - Diversity & Inclusion in the Tech Industry](301class-14)                  |
-| 14    | [Read: 14b - Diversity & Inclusion in the Tech Industry](301class-14b)                  |
+| 15    | [Read: 14b - Diversity & Inclusion in the Tech Industry](301class-14b)                  |
