@@ -59,6 +59,6 @@
 | number | Description                                                                           |
 | ------ | ------------------------------------------------------------------------------------- |
 | 1      | [Java Basics](./401/401class-01)                               |
-| 2      | [Interpreted vs Compiled Programming Languages](./401/401class-02) |
+| 2      | [Arrays, Loops, Imports](./401/401class-02) |
 | 3      | [Multithreading in Java Tutorial](./401/401class-03)                         |
 | 4      | [Naming Conventions](./401/401class-04)                           |
