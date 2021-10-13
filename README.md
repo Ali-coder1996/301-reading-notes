@@ -62,5 +62,7 @@
 | 2      | [Arrays, Loops, Imports](./401/401class-02) |
 | 3      | [Maps, primitives, File I/O](./401/401class-03)                         |
 | 4      | [oop](./401/401class-04)                         |
+| 5      | [Implementation: Linked Lists](./401/401class-05)                         |
+
 
 
