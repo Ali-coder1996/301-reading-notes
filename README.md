@@ -56,13 +56,15 @@
 
 ## Code 401 - Advanced Software Development
 
-| number | Description                                                                           |
+| number | Description |
 | ------ | ------------------------------------------------------------------------------------- |
-| 1      | [Java Basics](./401/401class-01)                               |
-| 2      | [Arrays, Loops, Imports](./401/401class-02) |
-| 3      | [Maps, primitives, File I/O](./401/401class-03)                         |
-| 4      | [oop](./401/401class-04)                         |
-| 5      | [Implementation: Linked Lists](./401/401class-05)                         |
+| 1      | [Java Basics](./401/401class-01)|
+| 2      | [Arrays, Loops, Imports](./401/401class-02)|
+| 3      | [Maps, primitives, File I/O](./401/401class-03)|
+| 4      | [oop](./401/401class-04)|
+| 5      | [Implementation: Linked Lists](./401/401class-05)|
+| 6      | [Inheritance and Interfaces](./401/401class-06)|
+
 
 
 
