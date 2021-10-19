@@ -64,6 +64,9 @@
 | 4      | [oop](./401/401class-04)|
 | 5      | [Implementation: Linked Lists](./401/401class-05)|
 | 6      | [Inheritance and Interfaces](./401/401class-06)|
+| 7      | [OO Design](./401/401class-08)|
+| 8      | [WRRC and Java](./401/401class-09)|
+
 
 
 
