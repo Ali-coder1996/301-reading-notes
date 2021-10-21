@@ -66,7 +66,7 @@
 | 6      | [Inheritance and Interfaces](./401/401class-06)|
 | 7      | [OO Design](./401/401class-08)|
 | 8      | [WRRC and Java](./401/401class-09)|
-
+| 9      | [Stacks & Queues](./401/401class-10)|
 
 
 
