@@ -73,4 +73,4 @@
 | 13     | [Trees](./401/401class-14)|
 | 14     | [Spring Authentication](./401/401class-15)|
 | 15     | [READ 17 -Spring Authentication](./401/401class-16)|
-| 16     | [Spring Authorization](./401/401class-17)|
+| 16     | [Web App Security](./401/401class-17)|
