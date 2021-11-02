@@ -74,3 +74,4 @@
 | 14     | [Spring Authentication](./401/401class-15)|
 | 15     | [READ 17 -Spring Authentication](./401/401class-16)|
 | 16     | [Web App Security](./401/401class-17)|
+| 17     | [Spring and Sockets](./401/401class-18)|
