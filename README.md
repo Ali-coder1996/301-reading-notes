@@ -76,3 +76,4 @@
 | 16     | [Web App Security](./401/401class-17)|
 | 17     | [Spring and Sockets](./401/401class-18)|
 | 18     | [Android Fundementlals](./401/401class-26)|
+| 19     | [Intents, Activities, and SharedPreferences](./401/401class-27)|
