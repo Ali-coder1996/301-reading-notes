@@ -79,3 +79,4 @@
 | 19     | [Intents, Activities, and SharedPreferences](./401/401class-27)|
 | 20     | [RecyclerView](./401/401class-28) |
 | 21     | [Room](./401/401class-29) |
+| 22     | [Hash Tables](./401/401class-30) |
