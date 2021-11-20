@@ -80,4 +80,4 @@
 | 20     | [RecyclerView](./401/401class-28) |
 | 21     | [Room](./401/401class-29) |
 | 22     | [Hash Tables](./401/401class-30) |
-| 23     | [Hash Tables](./401/401class-31)|
+| 23     | [Espresso](./401/401class-31)|
