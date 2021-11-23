@@ -83,3 +83,4 @@
 | 23     | [Espresso](./401/401class-31)|
 | 24     | [Serverless and Amplify](./401/401class-32)|
 | 25     | [GraphQL @connection](./401/401class-33)|
+| 26     | [Monetization](./401/401class-34)|
