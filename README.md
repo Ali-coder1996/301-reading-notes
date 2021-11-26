@@ -85,3 +85,4 @@
 | 25     | [GraphQL @connection](./401/401class-33)|
 | 26     | [Monetization](./401/401class-34)|
 | 27     | [Graphs](./401/401class-35)|
+| 28     | [Cognito](./401/401class-36)|
