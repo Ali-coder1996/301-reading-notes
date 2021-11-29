@@ -87,3 +87,4 @@
 | 27     | [Graphs](./401/401class-35)|
 | 28     | [Cognito](./401/401class-36)|
 | 29     | [S3](./401/401class-37)|
+| 30     | [Notifications](./401/401class-38)|
