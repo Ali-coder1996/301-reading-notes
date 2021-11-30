@@ -88,3 +88,4 @@
 | 28     | [Cognito](./401/401class-36)|
 | 29     | [S3](./401/401class-37)|
 | 30     | [Notifications](./401/401class-38)|
+| 31     | [Kinesis](./401/401class-39)|
