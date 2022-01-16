@@ -1,4 +1,4 @@
-# Reading Notes
+# Readings Notes
 
 > This web site is My Reading Notes
 
